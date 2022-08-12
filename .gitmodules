@@ -1,0 +1,3 @@
+[submodule "STDFinance"]
+	path = STDFinance
+	url = git@github.com:aforwardz/STDFinance.git
